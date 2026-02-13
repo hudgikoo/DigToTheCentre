@@ -1,0 +1,19 @@
+# Roblox .gitignore
+
+# Ignore artifacts:
+/Destination/
+/Scripts/
+/Modules/
+/Assets/
+/Output/
+/Remote/
+/Temp/
+
+# Ignore backup files
+*~
+*.bak
+*.tmp
+
+# Ignore hidden files
+.DS_Store
+Thumbs.db
